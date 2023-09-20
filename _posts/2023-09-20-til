@@ -1,11 +1,9 @@
 ---
 layout: post
 title: post-sample
-date: 2023-09-06 19:20:23 +0900
-category: sample
 ---
 ### post-sample
-> 안녕하세요!
+> 지킬 블로그를 공부했다.
 
 This is code
 ```ruby
