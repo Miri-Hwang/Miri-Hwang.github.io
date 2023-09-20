@@ -131,18 +131,18 @@ code {
 }
 
 .nav-title {
-	font-size: 100%;
+	font-size: 120%;
 	font-family: "Noto Sans";
 	text-transform: uppercase;
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid rgb(255, 255, 255);
 	margin-bottom: 5px;
 }
 
 a.nav-item {
-	font-size: 120%;
+	font-size: 100%;
 	font-family: "Noto Sans";
 	text-transform: capitalize;
-	color: #aaa;
+	color: #ffffff;
 }
 
 a.nav-item:hover { color: #777; }
