@@ -36,12 +36,14 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+asset_url: /assets
 
 
 # Outputting
 paginate: 10
 paginate_path: /page:num/
 timezone: Asia/Seoul
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
