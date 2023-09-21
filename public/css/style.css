@@ -112,11 +112,16 @@ code {
 	padding-inline-start: 0px;
 }
 
+.sidebar-brand {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .sidebar-brand > a {
 	font-size: 150%;
 	font-family: 'Gelasio','Jeju Gothic';
 	color: #fff;
-	vertical-align: top;
 }
 
 .lead {
