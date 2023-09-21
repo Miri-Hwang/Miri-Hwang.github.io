@@ -33,6 +33,7 @@
   --font-family-serif: "Jeju Gothic";
 }
 
+
 * {
 	box-sizing: border-box;
 }
@@ -115,6 +116,7 @@ code {
 	font-size: 150%;
 	font-family: 'Gelasio','Jeju Gothic';
 	color: #fff;
+	vertical-align: top;
 }
 
 .lead {
